@@ -1,0 +1,3 @@
+http://www.brunoochoa.com
+http://www.alura.com.br
+http://random-status-code.herokuapp.com
