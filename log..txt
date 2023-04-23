@@ -1,0 +1,12 @@
+23/04/2023 09:20:53-site_falso- online: false
+23/04/2023 09:20:53-http://www.brunoochoa.com- online: true
+23/04/2023 09:20:54-http://random-status-code.herokuapp.com- online: false
+23/04/2023 09:20:54-http://www.alura.com.br- online: true
+23/04/2023 09:21:47 - site_falso - online: false
+23/04/2023 09:21:48 - http://www.brunoochoa.com - online: true
+23/04/2023 09:21:48 - http://random-status-code.herokuapp.com - online: false
+23/04/2023 09:21:48 - http://www.alura.com.br - online: true
+23/04/2023 09:26:07 - site_falso - online: false
+23/04/2023 09:26:09 - http://www.brunoochoa.com - online: true
+23/04/2023 09:26:09 - http://random-status-code.herokuapp.com - online: false
+23/04/2023 09:26:09 - http://www.alura.com.br - online: true
